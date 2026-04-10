@@ -36,9 +36,10 @@
 ### 第一步：安装 Skill
 
 1. 下载本仓库中的 `proposal-writer.skill` 文件
-2. 打开 [Claude.ai](https://claude.ai)，进入设置
-3. 找到 **Skills（技能）** 选项，上传 `.skill` 文件
-4. 安装完成
+2. 打开 [Claude.ai](https://claude.ai)，点击左下角头像进入设置
+3. 进入 **Settings → Capabilities**，确认 **Code execution and file creation** 已开启
+4. 进入 **Customize → Skills**，点击 **+** 按钮 → **+ Create skill**
+5. 上传 `proposal-writer.skill` 文件，安装完成
 
 ### 第二步：开始使用
 
